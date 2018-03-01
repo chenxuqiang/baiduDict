@@ -26,8 +26,8 @@ except ImportError:
     import http.client as httplib
 import random
 
-appid = '20170712000064197'
-secretKey = 'YJmq2WWha6bErk3Fl6SV'
+appid = ''
+secretKey = ''
 
 langList = ['zh', 'en', 'yue', 'wyw', 'jp', 'kor', 'fra', 'spa', 'th', 'ara', 'ru', 'pt',
             'de', 'it', 'el', 'nl', 'pl', 'bul','est', 'dan', 'fin', 'cs', 'rom',
